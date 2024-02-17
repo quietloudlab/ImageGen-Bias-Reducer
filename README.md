@@ -8,33 +8,6 @@ This project aims to mitigate bias in AI-generated images by refining user promp
 - **Image Generation**: Generates images from refined prompts using OpenAI's DALL-E model.
 - **Iterative Refinement**: Allows users to iteratively refine their prompts based on specific questions, further reducing bias in the final image generation.
 
-## File Structure
-
-File Structure:
-ImageGenBias\
-├─/image-text-generator
-│   ├───/node_modules
-│   ├───/public
-│   ├───/src
-│               └───App.css
-│               └───App.js
-│               └───App.test.js
-│               └───index.css
-│               └───index.js
-│               └───logo.svg
-│               └───reportWebVitals.js
-│               └───setupTests.js
-│   └───.gitignore
-│   └───package-lock.json
-│   └───package.json
-│   └───README.md
-├─/image-text-generator-backend
-│   ├───/node_modules
-│   └───.env
-│   └───index.js
-│   └───package-lock.json
-│   └───package.json
-
 
 ## Setup
 
