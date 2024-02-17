@@ -1,0 +1,24 @@
+D:\Projects\AI\_ImageGenBias>
+├───image-text-generator
+│   ├───/node_modules
+│   ├───/public
+│   ├───/src
+        └───App.css
+        └───App.js
+        └───App.test.js
+        └───index.css
+        └───index.js
+        └───logo.svg
+        └───reportWebVitals.js
+        └───setupTests.js
+│   └───.gitignore
+│   └───package-lock.json
+│   └───package.json
+│   └───README.md
+└───image-text-generator-backend
+    ├───/node_modules
+    └───.env
+    └───index.js
+    └───package-lock.json
+    └───package.json
+    
